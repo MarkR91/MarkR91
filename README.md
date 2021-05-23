@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MarkR91
-- 👀 I’m interested in Robotics,Drones,Computer Vision,EEGs,C++,C,Go,Linux,ROS,Data Structures,Data Science and Numerical Computing
-- 🌱 I’m currently learning C/C++, Algos, ROS
-- 💞️ I’m looking to collaborate on ...???
+- 👀 I’m interested in Robotics, Drones, Computer Vision, EEGs, C++, C, Go, Linux, ROS, Data Structures, Data Science and Numerical Computing.
+- 🌱 I’m currently learning C/C++, Algos, ROS.
+- 💞️ I’m looking to collaborate on ???
 - 📫 How to reach me mramdahin@yahoo.com
 
 <!---
